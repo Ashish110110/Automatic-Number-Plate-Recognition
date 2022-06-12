@@ -84,7 +84,7 @@ The dataset which I used for training has one class label i.e licence. So to kno
 
 ![confusion_matrix](https://user-images.githubusercontent.com/37297441/173239174-85cfdb0e-021d-450d-b1c4-90e88ac48da5.png)
 
-My trained model detects licence 88% correctly as licence.
+The trained model detects licence 88% correctly as licence.
 
 The below graph shows all metric plot in one figure : 
 
