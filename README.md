@@ -150,7 +150,7 @@ Following are the images after cropping licence plates from detected objects.<br
 
 ## Optical Character Recognition(OCR)
 
-For the OCR we will be using Pytessaract. `tesseract-ocr.ipynb` is executed to extract text from cropped licence plates.
+For the OCR, I used Pytessaract. `tesseract-ocr.ipynb` is executed to extract text from cropped licence plates.
 
 ## Future Works
 
